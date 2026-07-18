@@ -1,0 +1,12 @@
+! Cấu hình Switch 2960 - SW-HomeNet
+! Xuất bằng lệnh: show running-config
+
+hostname SW-HomeNet
+!
+interface Vlan1
+ ip address 192.168.1.2 255.255.255.0
+ no shutdown
+!
+ip default-gateway 192.168.1.1
+!
+end
