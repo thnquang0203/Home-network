@@ -66,9 +66,8 @@ home-network-packet-tracer/
 
 ## Tác giả
 
-- Họ tên:
-- Lớp/Môn học:
-- Ngày thực hiện:
+- Họ tên:Trần Hữu Nhật Quang
+- Ngày thực hiện:17-18/7/2025
 
 ## License
 
